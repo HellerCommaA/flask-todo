@@ -1,4 +1,1 @@
-include/
-bin/
-lib/
-*.pyc
+.Python
